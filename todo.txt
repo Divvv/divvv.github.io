@@ -1,0 +1,21 @@
+Article ideas
+- Why Continous Delivery matters
+- Solve problems in "Programming Pearls" and write about them
+- Lessons learned from ParanoiaSMIL
+- Article about bugs
+- Top tips for more readable code 
+   if(expression == false) is more readable than if(!expression)
+   declaration close to usage
+- Can I come up with something about the integration issues we have had?
+- microservices
+- Design pattern series
+
+
+Career oriented
+- Collaborate more! Build a network with slack
+- It's time to start reading books
+- What Mad Men taught me about career development
+
+Projects
+- Descent campaing companion/helper
+- MonoGame 

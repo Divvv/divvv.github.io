@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: oberheim.se
+email: alexander.heimonen@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Alexander Heimonen is a .NET Consultant at Squeed, Stockholm and maintains this programming blog on his free time.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://oberheim.github.io" # the base hostname & protocol for your site
+twitter_username: Oberheimz
+github_username:  Oberheim
+linkedin_username: alexanderheimonen
+full_name: Alexander Heimonen
+
+# Build settings
+markdown: kramdown
+highlighter: null
