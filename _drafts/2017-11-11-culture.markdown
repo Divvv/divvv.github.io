@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Culture"
+date: 2017-11-11 20:00:00
+categories: draft culture development agile
+author: Nikolai Kanaev
+comments: true
+---
+
+When something unexpected happens, such as a production failure or a build is failing, the initial reactions of the team often give away the core of their culture. Some teams will be quick to get on the 'blame-game' with vocal inquiries such as "Who broke the project again?". Others will rapidly look at the version history and instead of checking the code for the error, look at which developer exactly pushed the commit in order to find the "guilty". 
+
+Other teams will take a more productive and pragmatic approach, simply stating that "hey guys, the build isn't working, we should find what's wrong with it". This is a team that recognizes the fact that asking "Why" is usually more productive than asking "Who", and that time spent trying to locate whoever is guilty could have been better spent looking for the actual issue at hand. 
+
+Nonetheless, a developer should get the chance to recognize that he/she has made an error. In a team with a positive learning culture, one that does not seek to blame or to mock, this is easy. In a team that reacts as the positive example above, the "guilty" developer will never fear to take this as an opportunity to learn, and perhaps even share the mistake/misunderstanding with the team so that everyone gets a chance to improve. 
+
+Ask yourself, what is your team's initial reaction when something happens? Do you look for the "guilty" one on the team? Do you look for another team or someone on the outside to blame? Do you ask "What has happened, how can we fix it, and what can we learn from it"? 
+
+My examples of different team cultures span across all sorts of teams. We're developers here, talking about development. However, as you continue reading you may realize that this also applies to sports teams, business teams, or any other team where a number of people try to achieve something together. 
+
+Culture, i believe, is not really something that can be tought. It needs to be built. 
