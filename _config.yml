@@ -1,14 +1,14 @@
 # Site settings
-title: niko.se
-email: niko.niko@gmail.com
+title: https://divvv.github.io
+email: nikolai.kanaev@squeed.com
 description: > # this means to ignore newlines until "baseurl:"
-  niko is a .NET Consultant at Squeed, Stockholm and maintains this programming blog on his free time.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non turpis eleifend, lobortis libero eget, rutrum nibh. Pellentesque eget pharetra ante. Ut non fringilla nibh, a feugiat ipsum. Ut nec lorem a est accumsan fermentum et ac augue. Nulla sit amet elementum neque. Duis id vehicula diam, ut congue tortor. Aenean luctus molestie pellentesque.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://divvv.github.io" # the base hostname & protocol for your site
-twitter_username: niko
-github_username:  niko
-linkedin_username: niko
-full_name: niko 
+twitter_username: @KanaevNikolai
+github_username:  Divvv
+linkedin_username: nikolai-kanaev-a681b962
+full_name: Nikolai Kanaev 
 
 # Build settings
 markdown: kramdown
